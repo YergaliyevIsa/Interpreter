@@ -1,0 +1,4 @@
+? == if operator
+@ == while operator
+# == print() 
+a(n) == array with n elements 
