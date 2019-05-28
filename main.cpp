@@ -4,6 +4,7 @@
 #include "syntax.h"
 using namespace std;
 
+
 //enum Operations {Mov, Plus, Minus, Mul, Div, Umin, Left, Right, If, While };
 //int priority[] ={9, 10, 10, 11, 11, 12, -1, -1};
 //char Oper_symbol[] = {'=', '+', '-', '*', '/', '-', '(', ')' , '?', '@' };
